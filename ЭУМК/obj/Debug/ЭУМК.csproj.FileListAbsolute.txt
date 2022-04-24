@@ -1,0 +1,11 @@
+D:\ЭУМК\ЭУМК\bin\Debug\ЭУМК.exe.config
+D:\ЭУМК\ЭУМК\bin\Debug\ЭУМК.exe
+D:\ЭУМК\ЭУМК\bin\Debug\ЭУМК.pdb
+D:\ЭУМК\ЭУМК\obj\Debug\ЭУМК.csprojAssemblyReference.cache
+D:\ЭУМК\ЭУМК\obj\Debug\ЭУМК.Form1.resources
+D:\ЭУМК\ЭУМК\obj\Debug\ЭУМК.Properties.Resources.resources
+D:\ЭУМК\ЭУМК\obj\Debug\ЭУМК.theory.resources
+D:\ЭУМК\ЭУМК\obj\Debug\ЭУМК.csproj.GenerateResource.cache
+D:\ЭУМК\ЭУМК\obj\Debug\ЭУМК.csproj.CoreCompileInputs.cache
+D:\ЭУМК\ЭУМК\obj\Debug\ЭУМК.exe
+D:\ЭУМК\ЭУМК\obj\Debug\ЭУМК.pdb
